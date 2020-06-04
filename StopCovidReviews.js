@@ -1,7 +1,7 @@
 /*
 
 Script pour récupérer les avis d’une application
-sur l’App Store, , en l’occurence StopCovid,
+sur l’App Store, en l’occurence StopCovid,
 à l’aide du module npm app-store-scraper.
 
 Anthony Nelzin-Santos
