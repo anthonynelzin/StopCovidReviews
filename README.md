@@ -23,7 +23,7 @@ Le script `StopCovidReviews.js` permet de récupérer les avis sur l’applicati
 	
 Changez la valeur de la clé `page` pour récupérer la deuxième, la troisième… page. Les avis sont enregistrés dans un fichier `reviews.json`.
 
-Changez la valeur de la clé `id` dans les deus fichiers pour récupérer les informations d’une autre application. Ces deux scripts peuvent être facilement adaptés au Play Store en utilisant le module [google-play-scraper](https://github.com/facundoolano/google-play-scraper).
+Changez la valeur de la clé `id` dans les deux fichiers pour récupérer les informations d’une autre application. Ces deux scripts peuvent être facilement adaptés au Play Store en utilisant le module [google-play-scraper](https://github.com/facundoolano/google-play-scraper).
 
 ## Licence
 
