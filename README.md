@@ -4,7 +4,7 @@ Un petit script pour récupérer les avis sur l’application StopCovid France.
 
 ## Pré-requis
 
-StopCovidReviews repose sur le module [app-store-scraper](https://github.com/facundoolano/app-store-scraper) de [Facundo Olano]. Avant sa première utilisation :
+StopCovidReviews repose sur le module [app-store-scraper](https://github.com/facundoolano/app-store-scraper) de [Facundo Olano](https://github.com/facundoolano). Avant sa première utilisation :
 
 	npm install app-store-scraper
 	npm install fs
